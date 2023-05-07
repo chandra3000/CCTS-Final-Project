@@ -1,0 +1,3 @@
+64 10 1 100 20
+Avg Aborts: 0
+Avg Delay: 0.100687

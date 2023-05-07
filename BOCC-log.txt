@@ -1,0 +1,750 @@
+Thread ID 140596599015168 Transaction 1 reads from 3 a value 0 at time 11:26:59
+Thread ID 140596599015168 Transaction 1 writes to 3 a value 30 at time 11:26:59
+Thread ID 140596615800576 Transaction 0 reads from 2 a value 0 at time 11:26:59
+Thread ID 140596615800576 Transaction 0 writes to 2 a value 42 at time 11:26:59
+Thread ID 140596607407872 Transaction 2 reads from 1 a value 0 at time 11:26:59
+Thread ID 140596607407872 Transaction 2 writes to 1 a value 82 at time 11:26:59
+Thread ID 140596590622464 Transaction 3 reads from 4 a value 0 at time 11:26:59
+Thread ID 140596590622464 Transaction 3 writes to 4 a value 40 at time 11:26:59
+Thread ID 140596582229760 Transaction 4 reads from 8 a value 0 at time 11:26:59
+Thread ID 140596582229760 Transaction 4 writes to 8 a value 6 at time 11:26:59
+Thread ID 140596333233920 Transaction 5 reads from 3 a value 0 at time 11:26:59
+Thread ID 140596333233920 Transaction 5 writes to 3 a value 7 at time 11:26:59
+Thread ID 140596573837056 Transaction 6 reads from 9 a value 0 at time 11:26:59
+Thread ID 140596573837056 Transaction 6 writes to 9 a value 57 at time 11:26:59
+Thread ID 140596316448512 Transaction 7 reads from 0 a value 0 at time 11:26:59
+Thread ID 140596316448512 Transaction 7 writes to 0 a value 36 at time 11:26:59
+Thread ID 140596358412032 Transaction 8 reads from 7 a value 0 at time 11:26:59
+Thread ID 140596073191168 Transaction 9 reads from 3 a value 0 at time 11:26:59
+Thread ID 140596073191168 Transaction 9 writes to 3 a value 11 at time 11:26:59
+Thread ID 140596064798464 Transaction 10 reads from 8 a value 0 at time 11:26:59
+Thread ID 140596341626624 Transaction 11 reads from 8 a value 0 at time 11:26:59
+Thread ID 140596358412032 Transaction 8 writes to 7 a value 90 at time 11:26:59
+Thread ID 140596341626624 Transaction 11 writes to 8 a value 87 at time 11:26:59
+Thread ID 140596064798464 Transaction 10 writes to 8 a value 15 at time 11:26:59
+Thread ID 140596324841216 Transaction 12 reads from 0 a value 0 at time 11:26:59
+Thread ID 140596324841216 Transaction 12 writes to 0 a value 81 at time 11:26:59
+Thread ID 140596308055808 Transaction 13 reads from 2 a value 0 at time 11:26:59
+Thread ID 140596308055808 Transaction 13 writes to 2 a value 85 at time 11:26:59
+Thread ID 140595620214528 Transaction 14 reads from 3 a value 0 at time 11:26:59
+Thread ID 140595620214528 Transaction 14 writes to 3 a value 43 at time 11:26:59
+Thread ID 140596350019328 Transaction 15 reads from 8 a value 0 at time 11:26:59
+Thread ID 140596350019328 Transaction 15 writes to 8 a value 89 at time 11:26:59
+Thread ID 140596081583872 Transaction 16 reads from 2 a value 0 at time 11:26:59
+Thread ID 140596081583872 Transaction 16 writes to 2 a value 90 at time 11:26:59
+Thread ID 140595595036416 Transaction 17 reads from 4 a value 0 at time 11:26:59
+Thread ID 140595595036416 Transaction 17 writes to 4 a value 42 at time 11:26:59
+Thread ID 140596048013056 Transaction 18 reads from 0 a value 0 at time 11:26:59
+Thread ID 140596048013056 Transaction 18 writes to 0 a value 19 at time 11:26:59
+Thread ID 140596039620352 Transaction 19 reads from 4 a value 0 at time 11:26:59
+Thread ID 140596039620352 Transaction 19 writes to 4 a value 33 at time 11:26:59
+Thread ID 140595578251008 Transaction 21 reads from 6 a value 0 at time 11:26:59
+Thread ID 140595611821824 Transaction 20 reads from 0 a value 0 at time 11:26:59
+Thread ID 140595611821824 Transaction 20 writes to 0 a value 1 at time 11:26:59
+Thread ID 140595569858304 Transaction 22 reads from 6 a value 0 at time 11:26:59
+Thread ID 140595569858304 Transaction 22 writes to 6 a value 53 at time 11:26:59
+Thread ID 140595578251008 Transaction 21 writes to 6 a value 13 at time 11:26:59
+Thread ID 140594882017024 Transaction 23 reads from 7 a value 0 at time 11:26:59
+Thread ID 140594882017024 Transaction 23 writes to 7 a value 96 at time 11:26:59
+Thread ID 140594873624320 Transaction 24 reads from 1 a value 0 at time 11:26:59
+Thread ID 140594873624320 Transaction 24 writes to 1 a value 21 at time 11:26:59
+Thread ID 140595586643712 Transaction 25 reads from 3 a value 0 at time 11:26:59
+Thread ID 140594848446208 Transaction 27 reads from 8 a value 0 at time 11:26:59
+Thread ID 140594848446208 Transaction 27 writes to 8 a value 79 at time 11:26:59
+Thread ID 140596056405760 Transaction 28 reads from 2 a value 0 at time 11:26:59
+Thread ID 140595586643712 Transaction 25 writes to 3 a value 40 at time 11:26:59
+Thread ID 140596056405760 Transaction 28 writes to 2 a value 69 at time 11:26:59
+Thread ID 140594831660800 Transaction 30 reads from 6 a value 0 at time 11:26:59
+Thread ID 140594831660800 Transaction 30 writes to 6 a value 85 at time 11:26:59
+Thread ID 140594840053504 Transaction 29 reads from 2 a value 0 at time 11:26:59
+Thread ID 140594840053504 Transaction 29 writes to 2 a value 71 at time 11:26:59
+Thread ID 140594856838912 Transaction 26 reads from 2 a value 0 at time 11:26:59
+Thread ID 140594856838912 Transaction 26 writes to 2 a value 34 at time 11:26:59
+Thread ID 140594328360704 Transaction 32 reads from 5 a value 0 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 reads from 8 a value 0 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 writes to 8 a value 49 at time 11:26:59
+Thread ID 140594328360704 Transaction 32 writes to 5 a value 61 at time 11:26:59
+Thread ID 140596089976576 Transaction 33 reads from 1 a value 0 at time 11:26:59
+Thread ID 140596089976576 Transaction 33 writes to 1 a value 67 at time 11:26:59
+Thread ID 140594319968000 Transaction 34 reads from 0 a value 0 at time 11:26:59
+Thread ID 140594319968000 Transaction 34 writes to 0 a value 10 at time 11:26:59
+Thread ID 140594865231616 Transaction 35 reads from 5 a value 0 at time 11:26:59
+Thread ID 140594865231616 Transaction 35 writes to 5 a value 33 at time 11:26:59
+Thread ID 140594303182592 Transaction 38 reads from 6 a value 0 at time 11:56:59
+Thread ID 140594345146112 Transaction 39 reads from 2 a value 0 at time 11:26:59
+Thread ID 140594345146112 Transaction 39 writes to 2 a value 15 at time 11:26:59
+Thread ID 140594311575296 Transaction 36 reads from 0 a value 0 at time 11:26:59
+Thread ID 140594294789888 Transaction 40 reads from 6 a value 0 at time 11:26:59
+Thread ID 140594336753408 Transaction 37 reads from 3 a value 0 at time 11:26:59
+Thread ID 140594294789888 Transaction 40 writes to 6 a value 18 at time 11:26:59
+Thread ID 140594336753408 Transaction 37 writes to 3 a value 99 at time 11:26:59
+Thread ID 140594311575296 Transaction 36 writes to 0 a value 95 at time 11:26:59
+Thread ID 140594303182592 Transaction 38 writes to 6 a value 5 at time 11:26:59
+Thread ID 140593539839744 Transaction 41 reads from 4 a value 0 at time 11:26:59
+Thread ID 140593539839744 Transaction 41 writes to 4 a value 25 at time 11:26:59
+Thread ID 140593531447040 Transaction 42 reads from 3 a value 0 at time 11:26:59
+Thread ID 140593531447040 Transaction 42 writes to 3 a value 73 at time 11:26:59
+Thread ID 140593523054336 Transaction 43 reads from 9 a value 0 at time 11:26:59
+Thread ID 140593523054336 Transaction 43 writes to 9 a value 95 at time 11:26:59
+Thread ID 140593514661632 Transaction 44 reads from 2 a value 0 at time 11:26:59
+Thread ID 140593514661632 Transaction 44 writes to 2 a value 75 at time 11:26:59
+Thread ID 140593506268928 Transaction 45 reads from 6 a value 0 at time 11:26:59
+Thread ID 140593506268928 Transaction 45 writes to 6 a value 62 at time 11:26:59
+Thread ID 140593497876224 Transaction 46 reads from 2 a value 0 at time 11:26:59
+Thread ID 140593497876224 Transaction 46 writes to 2 a value 93 at time 11:26:59
+Thread ID 140593489483520 Transaction 47 reads from 2 a value 0 at time 11:26:59
+Thread ID 140593489483520 Transaction 47 writes to 2 a value 61 at time 11:26:59
+Thread ID 140593002968832 Transaction 48 reads from 4 a value 0 at time 11:26:59
+Thread ID 140593002968832 Transaction 48 writes to 4 a value 56 at time 11:26:59
+Thread ID 140592994576128 Transaction 49 reads from 4 a value 0 at time 11:26:59
+Thread ID 140592994576128 Transaction 49 writes to 4 a value 99 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 reads from 2 a value 0 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 writes to 2 a value 77 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 reads from 8 a value 0 at time 11:26:59
+Thread ID 140592961005312 Transaction 53 reads from 7 a value 0 at time 11:26:59
+Thread ID 140592961005312 Transaction 53 writes to 7 a value 8 at time 11:26:59
+Thread ID 140592969398016 Transaction 52 reads from 8 a value 0 at time 11:26:59
+Thread ID 140592969398016 Transaction 52 writes to 8 a value 76 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 writes to 8 a value 1 at time 11:26:59
+Thread ID 140592952612608 Transaction 54 reads from 5 a value 0 at time 11:26:59
+Thread ID 140592952612608 Transaction 54 writes to 5 a value 40 at time 11:26:59
+Thread ID 140592466097920 Transaction 55 reads from 3 a value 0 at time 11:26:59
+Thread ID 140592457705216 Transaction 56 reads from 4 a value 0 at time 11:26:59
+Thread ID 140592466097920 Transaction 55 writes to 3 a value 98 at time 11:26:59
+Thread ID 140592457705216 Transaction 56 writes to 4 a value 70 at time 11:26:59
+Thread ID 140592449312512 Transaction 57 reads from 4 a value 0 at time 11:26:59
+Thread ID 140592449312512 Transaction 57 writes to 4 a value 94 at time 11:26:59
+Thread ID 140592440919808 Transaction 58 reads from 9 a value 0 at time 11:26:59
+Thread ID 140592440919808 Transaction 58 writes to 9 a value 98 at time 11:26:59
+Thread ID 140592415741696 Transaction 60 reads from 3 a value 0 at time 11:26:59
+Thread ID 140592415741696 Transaction 60 writes to 3 a value 55 at time 11:26:59
+Thread ID 140592432527104 Transaction 59 reads from 4 a value 0 at time 11:26:59
+Thread ID 140592432527104 Transaction 59 writes to 4 a value 97 at time 11:26:59
+Thread ID 140592063444736 Transaction 61 reads from 6 a value 0 at time 11:26:59
+Thread ID 140592063444736 Transaction 61 writes to 6 a value 47 at time 11:26:59
+Thread ID 140592424134400 Transaction 62 reads from 3 a value 0 at time 11:26:59
+Thread ID 140592424134400 Transaction 62 writes to 3 a value 67 at time 11:26:59
+Thread ID 140592055052032 Transaction 63 reads from 5 a value 0 at time 11:26:59
+Thread ID 140592055052032 Transaction 63 writes to 5 a value 54 at time 11:26:59
+Transaction 3 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596607407872 Transaction 2 reads from 8 a value 0 at time 11:26:59
+Thread ID 140596615800576 Transaction 0 reads from 0 a value 0 at time 11:26:59
+Thread ID 140596333233920 Transaction 5 reads from 8 a value 0 at time 11:26:59
+Thread ID 140596599015168 Transaction 1 reads from 9 a value 0 at time 11:26:59
+Thread ID 140596333233920 Transaction 5 writes to 8 a value 50 at time 11:26:59
+Thread ID 140596599015168 Transaction 1 writes to 9 a value 30 at time 11:26:59
+Thread ID 140596582229760 Transaction 4 reads from 8 a value 0 at time 11:26:59
+Thread ID 140596615800576 Transaction 0 writes to 0 a value 63 at time 11:26:59
+Thread ID 140596582229760 Transaction 4 writes to 8 a value 4 at time 11:26:59
+Thread ID 140596607407872 Transaction 2 writes to 8 a value 67 at time 11:26:59
+Thread ID 140596573837056 Transaction 6 reads from 0 a value 0 at time 11:26:59
+Thread ID 140596573837056 Transaction 6 writes to 0 a value 44 at time 11:26:59
+Transaction 7 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596073191168 Transaction 9 reads from 5 a value 0 at time 11:26:59
+Thread ID 140596073191168 Transaction 9 writes to 5 a value 33 at time 11:26:59
+Thread ID 140596358412032 Transaction 8 reads from 3 a value 0 at time 11:26:59
+Thread ID 140596358412032 Transaction 8 writes to 3 a value 95 at time 11:26:59
+Thread ID 140596341626624 Transaction 11 reads from 5 a value 0 at time 11:26:59
+Thread ID 140596341626624 Transaction 11 writes to 5 a value 18 at time 11:26:59
+Transaction 10 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596308055808 Transaction 13 reads from 0 a value 36 at time 11:26:59
+Thread ID 140596308055808 Transaction 13 writes to 0 a value 112 at time 11:26:59
+Thread ID 140596324841216 Transaction 12 reads from 3 a value 0 at time 11:26:59
+Thread ID 140596324841216 Transaction 12 writes to 3 a value 99 at time 11:26:59
+Thread ID 140595620214528 Transaction 14 reads from 7 a value 0 at time 11:26:59
+Thread ID 140595620214528 Transaction 14 writes to 7 a value 1 at time 11:26:59
+Transaction 15 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140595595036416 Transaction 17 reads from 6 a value 0 at time 11:26:59
+Thread ID 140595595036416 Transaction 17 writes to 6 a value 14 at time 11:26:59
+Thread ID 140596048013056 Transaction 18 reads from 3 a value 0 at time 11:26:59
+Thread ID 140596048013056 Transaction 18 writes to 3 a value 71 at time 11:26:59
+Transaction 22 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596081583872 Transaction 16 reads from 7 a value 0 at time 11:26:59
+Thread ID 140596081583872 Transaction 16 writes to 7 a value 31 at time 11:26:59
+Thread ID 140595611821824 Transaction 20 reads from 1 a value 0 at time 11:26:59
+Thread ID 140594882017024 Transaction 23 reads from 5 a value 0 at time 11:26:59
+Thread ID 140594882017024 Transaction 23 writes to 5 a value 15 at time 11:26:59
+Thread ID 140595611821824 Transaction 20 writes to 1 a value 4 at time 11:26:59
+Thread ID 140594873624320 Transaction 24 reads from 2 a value 0 at time 11:26:59
+Thread ID 140594873624320 Transaction 24 writes to 2 a value 15 at time 11:26:59
+Thread ID 140596039620352 Transaction 19 reads from 6 a value 53 at time 11:26:59
+Thread ID 140595578251008 Transaction 21 reads from 4 a value 40 at time 11:26:59
+Thread ID 140595578251008 Transaction 21 writes to 4 a value 40 at time 11:26:59
+Thread ID 140596039620352 Transaction 19 writes to 6 a value 97 at time 11:26:59
+Thread ID 140596056405760 Transaction 28 reads from 5 a value 0 at time 11:26:59
+Thread ID 140596056405760 Transaction 28 writes to 5 a value 82 at time 11:26:59
+Thread ID 140594831660800 Transaction 30 reads from 0 a value 36 at time 11:26:59
+Thread ID 140594831660800 Transaction 30 writes to 0 a value 98 at time 11:26:59
+Thread ID 140594856838912 Transaction 26 reads from 4 a value 40 at time 11:26:59
+Thread ID 140595586643712 Transaction 25 reads from 7 a value 0 at time 11:26:59
+Thread ID 140594856838912 Transaction 26 writes to 4 a value 100 at time 11:26:59
+Thread ID 140594840053504 Transaction 29 reads from 0 a value 36 at time 11:26:59
+Thread ID 140594848446208 Transaction 27 reads from 1 a value 0 at time 11:26:59
+Thread ID 140594848446208 Transaction 27 writes to 1 a value 19 at time 11:26:59
+Thread ID 140594840053504 Transaction 29 writes to 0 a value 66 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 reads from 8 a value 89 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 writes to 8 a value 162 at time 11:26:59
+Transaction 34 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596089976576 Transaction 33 reads from 0 a value 36 at time 11:26:59
+Thread ID 140596089976576 Transaction 33 writes to 0 a value 95 at time 11:26:59
+Thread ID 140594865231616 Transaction 35 reads from 3 a value 0 at time 11:26:59
+Thread ID 140594294789888 Transaction 40 reads from 9 a value 0 at time 11:26:59
+Thread ID 140594328360704 Transaction 32 reads from 1 a value 0 at time 11:26:59
+Thread ID 140594328360704 Transaction 32 writes to 1 a value 96 at time 11:26:59
+Thread ID 140594294789888 Transaction 40 writes to 9 a value 94 at time 11:26:59
+Transaction 39 tryCommits with result 1 at time 11:26:59
+
+Transaction 38 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140594865231616 Transaction 35 writes to 3 a value 27 at time 11:26:59
+Thread ID 140593539839744 Transaction 41 reads from 6 a value 5 at time 11:26:59
+Thread ID 140594336753408 Transaction 37 reads from 3 a value 0 at time 05:56:59
+Thread ID 140593539839744 Transaction 41 writes to 6 a value 67 at time 11:26:59
+Thread ID 140594311575296 Transaction 36 reads from 7 a value 0 at time 11:26:59
+Thread ID 140593531447040 Transaction 42 reads from 8 a value 89 at time 11:26:59
+Thread ID 140594311575296 Transaction 36 writes to 7 a value 69 at time 11:26:59
+Thread ID 140593523054336 Transaction 43 reads from 1 a value 0 at time 11:26:59
+Thread ID 140593531447040 Transaction 42 writes to 8 a value 93 at time 11:26:59
+Thread ID 140595586643712 Transaction 25 writes to 7 a value 75 at time 11:26:59
+Thread ID 140594336753408 Transaction 37 writes to 3 a value 54 at time 11:26:59
+Thread ID 140593523054336 Transaction 43 writes to 1 a value 54 at time 11:26:59
+Thread ID 140593489483520 Transaction 47 reads from 7 a value 0 at time 11:26:59
+Thread ID 140593489483520 Transaction 47 writes to 7 a value 5 at time 11:26:59
+Thread ID 140593506268928 Transaction 45 reads from 6 a value 5 at time 11:26:59
+Thread ID 140593497876224 Transaction 46 reads from 9 a value 0 at time 11:26:59
+Thread ID 140593506268928 Transaction 45 writes to 6 a value 17 at time 11:26:59
+Thread ID 140593514661632 Transaction 44 reads from 4 a value 40 at time 11:26:59
+Thread ID 140593514661632 Transaction 44 writes to 4 a value 123 at time 11:26:59
+Thread ID 140593497876224 Transaction 46 writes to 9 a value 26 at time 11:26:59
+Thread ID 140593002968832 Transaction 48 reads from 7 a value 0 at time 11:26:59
+Thread ID 140593002968832 Transaction 48 writes to 7 a value 38 at time 11:26:59
+Thread ID 140592994576128 Transaction 49 reads from 4 a value 40 at time 11:26:59
+Thread ID 140592994576128 Transaction 49 writes to 4 a value 139 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 reads from 9 a value 0 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 writes to 9 a value 96 at time 11:26:59
+Thread ID 140592969398016 Transaction 52 reads from 4 a value 40 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 reads from 8 a value 89 at time 11:26:59
+Thread ID 140592969398016 Transaction 52 writes to 4 a value 123 at time 11:26:59
+Transaction 53 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140592952612608 Transaction 54 reads from 9 a value 0 at time 11:26:59
+Thread ID 140592952612608 Transaction 54 writes to 9 a value 63 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 writes to 8 a value 171 at time 11:26:59
+Thread ID 140592466097920 Transaction 55 reads from 8 a value 89 at time 11:26:59
+Thread ID 140592466097920 Transaction 55 writes to 8 a value 133 at time 11:26:59
+Thread ID 140592457705216 Transaction 56 reads from 9 a value 0 at time 11:26:59
+Thread ID 140592449312512 Transaction 57 reads from 4 a value 40 at time 11:26:59
+Thread ID 140592449312512 Transaction 57 writes to 4 a value 60 at time 11:26:59
+Thread ID 140592440919808 Transaction 58 reads from 3 a value 0 at time 11:26:59
+Thread ID 140592440919808 Transaction 58 writes to 3 a value 2 at time 11:26:59
+Thread ID 140592457705216 Transaction 56 writes to 9 a value 77 at time 11:26:59
+Transaction 60 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140592432527104 Transaction 59 reads from 2 a value 15 at time 11:26:59
+Thread ID 140592432527104 Transaction 59 writes to 2 a value 71 at time 11:26:59
+Transaction 61 tryCommits with result 1 at time 11:26:59
+
+Transaction 63 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140592424134400 Transaction 62 reads from 6 a value 47 at time 11:26:59
+Thread ID 140592424134400 Transaction 62 writes to 6 a value 74 at time 11:26:59
+Thread ID 140596607407872 Transaction 2 reads from 3 a value 55 at time 11:26:59
+Thread ID 140596573837056 Transaction 6 reads from 8 a value 4 at time 11:26:59
+Thread ID 140596607407872 Transaction 2 writes to 3 a value 83 at time 11:26:59
+Thread ID 140596599015168 Transaction 1 reads from 0 a value 10 at time 11:26:59
+Thread ID 140596358412032 Transaction 8 reads from 0 a value 10 at time 11:26:59
+Thread ID 140596358412032 Transaction 8 writes to 0 a value 109 at time 11:26:59
+Thread ID 140596599015168 Transaction 1 writes to 0 a value 101 at time 11:26:59
+Thread ID 140596333233920 Transaction 5 reads from 5 a value 54 at time 11:26:59
+Thread ID 140596333233920 Transaction 5 writes to 5 a value 105 at time 11:26:59
+Transaction 4 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596615800576 Transaction 0 reads from 8 a value 4 at time 11:26:59
+Thread ID 140596615800576 Transaction 0 writes to 8 a value 88 at time 11:26:59
+Thread ID 140596573837056 Transaction 6 writes to 8 a value 94 at time 11:26:59
+Thread ID 140596073191168 Transaction 9 reads from 1 a value 0 at time 11:26:59
+Thread ID 140596073191168 Transaction 9 writes to 1 a value 87 at time 11:26:59
+Transaction 14 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140595595036416 Transaction 17 reads from 1 a value 0 at time 11:26:59
+Thread ID 140595595036416 Transaction 17 writes to 1 a value 13 at time 11:26:59
+Thread ID 140596081583872 Transaction 16 reads from 6 a value 47 at time 11:26:59
+Thread ID 140596081583872 Transaction 16 writes to 6 a value 108 at time 11:26:59
+Transaction 23 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596341626624 Transaction 11 reads from 0 a value 10 at time 11:26:59
+Transaction 20 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596341626624 Transaction 11 writes to 0 a value 86 at time 11:26:59
+Thread ID 140596324841216 Transaction 12 reads from 3 a value 55 at time 11:26:59
+Thread ID 140596324841216 Transaction 12 writes to 3 a value 86 at time 11:26:59
+Thread ID 140595578251008 Transaction 21 reads from 4 a value 40 at time 11:26:59
+Thread ID 140595578251008 Transaction 21 writes to 4 a value 55 at time 11:26:59
+Thread ID 140596048013056 Transaction 18 reads from 2 a value 85 at time 11:26:59
+Thread ID 140596048013056 Transaction 18 writes to 2 a value 127 at time 11:26:59
+Transaction 13 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140594873624320 Transaction 24 reads from 3 a value 43 at time 11:26:59
+Thread ID 140594873624320 Transaction 24 writes to 3 a value 70 at time 11:26:59
+Thread ID 140596039620352 Transaction 19 reads from 3 a value 43 at time 11:26:59
+Thread ID 140596039620352 Transaction 19 writes to 3 a value 96 at time 11:26:59
+Thread ID 140594831660800 Transaction 30 reads from 4 a value 40 at time 11:26:59
+Thread ID 140594831660800 Transaction 30 writes to 4 a value 115 at time 11:26:59
+Thread ID 140596056405760 Transaction 28 reads from 8 a value 4 at time 11:26:59
+Thread ID 140596056405760 Transaction 28 writes to 8 a value 41 at time 11:26:59
+Thread ID 140594856838912 Transaction 26 reads from 6 a value 47 at time 11:26:59
+Thread ID 140594856838912 Transaction 26 writes to 6 a value 128 at time 11:26:59
+Thread ID 140594848446208 Transaction 27 reads from 5 a value 15 at time 11:26:59
+Thread ID 140594848446208 Transaction 27 writes to 5 a value 101 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 reads from 4 a value 40 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 writes to 4 a value 124 at time 11:26:59
+Thread ID 140596089976576 Transaction 33 reads from 0 a value 1 at time 11:26:59
+Thread ID 140596089976576 Transaction 33 writes to 0 a value 66 at time 11:26:59
+Thread ID 140594840053504 Transaction 29 reads from 3 a value 43 at time 11:26:59
+Thread ID 140594840053504 Transaction 29 writes to 3 a value 45 at time 11:26:59
+Thread ID 140594328360704 Transaction 32 reads from 7 a value 96 at time 11:26:59
+Thread ID 140594328360704 Transaction 32 writes to 7 a value 141 at time 11:26:59
+Thread ID 140594294789888 Transaction 40 reads from 8 a value 4 at time 11:26:59
+Thread ID 140594294789888 Transaction 40 writes to 8 a value 4 at time 11:26:59
+Thread ID 140593539839744 Transaction 41 reads from 7 a value 96 at time 11:26:59
+Thread ID 140593539839744 Transaction 41 writes to 7 a value 166 at time 11:26:59
+Thread ID 140594311575296 Transaction 36 reads from 5 a value 15 at time 11:26:59
+Thread ID 140594311575296 Transaction 36 writes to 5 a value 68 at time 11:26:59
+Thread ID 140593531447040 Transaction 42 reads from 3 a value 43 at time 11:26:59
+Thread ID 140595586643712 Transaction 25 reads from 4 a value 40 at time 11:26:59
+Thread ID 140593489483520 Transaction 47 reads from 7 a value 96 at time 11:26:59
+Thread ID 140593489483520 Transaction 47 writes to 7 a value 112 at time 11:26:59
+Thread ID 140594336753408 Transaction 37 reads from 1 a value 4 at time 11:26:59
+Thread ID 140595586643712 Transaction 25 writes to 4 a value 131 at time 11:26:59
+Thread ID 140594865231616 Transaction 35 reads from 5 a value 15 at time 11:26:59
+Transaction 46 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140593002968832 Transaction 48 reads from 0 a value 1 at time 11:26:59
+Thread ID 140593002968832 Transaction 48 writes to 0 a value 33 at time 11:26:59
+Thread ID 140594865231616 Transaction 35 writes to 5 a value 38 at time 11:26:59
+Thread ID 140593523054336 Transaction 43 reads from 4 a value 40 at time 11:26:59
+Thread ID 140593523054336 Transaction 43 writes to 4 a value 118 at time 11:26:59
+Thread ID 140593514661632 Transaction 44 reads from 5 a value 15 at time 11:26:59
+Thread ID 140593531447040 Transaction 42 writes to 3 a value 50 at time 11:26:59
+Thread ID 140594336753408 Transaction 37 writes to 1 a value 73 at time 11:26:59
+Thread ID 140593514661632 Transaction 44 writes to 5 a value 89 at time 11:26:59
+Thread ID 140593506268928 Transaction 45 reads from 6 a value 47 at time 11:26:59
+Thread ID 140592994576128 Transaction 49 reads from 9 a value 26 at time 11:26:59
+Thread ID 140593506268928 Transaction 45 writes to 6 a value 80 at time 11:26:59
+Thread ID 140592994576128 Transaction 49 writes to 9 a value 106 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 reads from 9 a value 26 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 writes to 9 a value 70 at time 11:26:59
+Thread ID 140592952612608 Transaction 54 reads from 3 a value 43 at time 11:26:59
+Thread ID 140592952612608 Transaction 54 writes to 3 a value 109 at time 11:26:59
+Thread ID 140592969398016 Transaction 52 reads from 0 a value 1 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 reads from 8 a value 4 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 writes to 8 a value 71 at time 11:26:59
+Thread ID 140592969398016 Transaction 52 writes to 0 a value 14 at time 11:26:59
+Thread ID 140592466097920 Transaction 55 reads from 3 a value 43 at time 11:26:59
+Thread ID 140592466097920 Transaction 55 writes to 3 a value 126 at time 11:26:59
+Thread ID 140592440919808 Transaction 58 reads from 2 a value 93 at time 11:26:59
+Thread ID 140592440919808 Transaction 58 writes to 2 a value 111 at time 11:26:59
+Thread ID 140592457705216 Transaction 56 reads from 2 a value 93 at time 11:26:59
+Thread ID 140592457705216 Transaction 56 writes to 2 a value 112 at time 11:26:59
+Thread ID 140592449312512 Transaction 57 reads from 4 a value 40 at time 11:26:59
+Thread ID 140592449312512 Transaction 57 writes to 4 a value 116 at time 11:26:59
+Transaction 59 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140592424134400 Transaction 62 reads from 2 a value 71 at time 11:26:59
+Thread ID 140592424134400 Transaction 62 writes to 2 a value 89 at time 11:26:59
+Transaction 2 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596615800576 Transaction 0 reads from 6 a value 47 at time 11:26:59
+Thread ID 140596615800576 Transaction 0 writes to 6 a value 88 at time 11:26:59
+Thread ID 140596358412032 Transaction 8 reads from 6 a value 47 at time 11:26:59
+Thread ID 140596358412032 Transaction 8 writes to 6 a value 54 at time 11:26:59
+Thread ID 140596599015168 Transaction 1 reads from 6 a value 47 at time 11:26:59
+Thread ID 140596599015168 Transaction 1 writes to 6 a value 90 at time 11:26:59
+Thread ID 140596333233920 Transaction 5 reads from 3 a value 83 at time 11:26:59
+Thread ID 140596333233920 Transaction 5 writes to 3 a value 146 at time 11:26:59
+Thread ID 140596573837056 Transaction 6 reads from 8 a value 67 at time 11:26:59
+Thread ID 140596573837056 Transaction 6 writes to 8 a value 143 at time 11:26:59
+Transaction 9 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140595595036416 Transaction 17 reads from 3 a value 11 at time 11:26:59
+Thread ID 140595595036416 Transaction 17 writes to 3 a value 80 at time 11:26:59
+Thread ID 140596081583872 Transaction 16 reads from 7 a value 96 at time 11:26:59
+Thread ID 140596081583872 Transaction 16 writes to 7 a value 119 at time 11:26:59
+Thread ID 140596324841216 Transaction 12 reads from 4 a value 97 at time 11:26:59
+Thread ID 140596324841216 Transaction 12 writes to 4 a value 189 at time 11:26:59
+Transaction 18 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140595578251008 Transaction 21 reads from 9 a value 26 at time 11:26:59
+Thread ID 140595578251008 Transaction 21 writes to 9 a value 30 at time 11:26:59
+Transaction 11 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596056405760 Transaction 28 reads from 9 a value 26 at time 11:26:59
+Thread ID 140594856838912 Transaction 26 reads from 3 a value 96 at time 11:26:59
+Thread ID 140594856838912 Transaction 26 writes to 3 a value 191 at time 11:26:59
+Thread ID 140594831660800 Transaction 30 reads from 5 a value 18 at time 11:26:59
+Thread ID 140594848446208 Transaction 27 reads from 6 a value 97 at time 11:26:59
+Thread ID 140594831660800 Transaction 30 writes to 5 a value 78 at time 11:26:59
+Thread ID 140594873624320 Transaction 24 reads from 1 a value 87 at time 11:26:59
+Thread ID 140594848446208 Transaction 27 writes to 6 a value 191 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 reads from 2 a value 127 at time 11:26:59
+Transaction 19 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140594873624320 Transaction 24 writes to 1 a value 128 at time 11:26:59
+Transaction 29 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140594328360704 Transaction 32 reads from 7 a value 96 at time 11:26:59
+Thread ID 140594294789888 Transaction 40 reads from 5 a value 18 at time 11:26:59
+Thread ID 140594294789888 Transaction 40 writes to 5 a value 39 at time 11:26:59
+Thread ID 140596089976576 Transaction 33 reads from 4 a value 33 at time 11:26:59
+Thread ID 140596089976576 Transaction 33 writes to 4 a value 61 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 writes to 2 a value 139 at time 11:26:59
+Thread ID 140596056405760 Transaction 28 writes to 9 a value 112 at time 11:26:59
+Thread ID 140593539839744 Transaction 41 reads from 5 a value 18 at time 11:26:59
+Thread ID 140594328360704 Transaction 32 writes to 7 a value 156 at time 11:26:59
+Thread ID 140593539839744 Transaction 41 writes to 5 a value 40 at time 11:26:59
+Thread ID 140594311575296 Transaction 36 reads from 2 a value 71 at time 11:26:59
+Thread ID 140594311575296 Transaction 36 writes to 2 a value 147 at time 11:26:59
+Thread ID 140593489483520 Transaction 47 reads from 0 a value 66 at time 11:26:59
+Thread ID 140593489483520 Transaction 47 writes to 0 a value 102 at time 11:26:59
+Thread ID 140595586643712 Transaction 25 reads from 5 a value 18 at time 11:26:59
+Thread ID 140595586643712 Transaction 25 writes to 5 a value 25 at time 11:26:59
+Thread ID 140593514661632 Transaction 44 reads from 1 a value 87 at time 11:26:59
+Thread ID 140593523054336 Transaction 43 reads from 3 a value 45 at time 11:26:59
+Thread ID 140593514661632 Transaction 44 writes to 1 a value 146 at time 11:26:59
+Thread ID 140594865231616 Transaction 35 reads from 2 a value 71 at time 11:26:59
+Thread ID 140593531447040 Transaction 42 reads from 8 a value 87 at time 11:26:59
+Thread ID 140593523054336 Transaction 43 writes to 3 a value 102 at time 11:26:59
+Thread ID 140594336753408 Transaction 37 reads from 3 a value 45 at time 11:26:59
+Thread ID 140594865231616 Transaction 35 writes to 2 a value 157 at time 11:26:59
+Thread ID 140593002968832 Transaction 48 reads from 1 a value 87 at time 11:26:59
+Thread ID 140592994576128 Transaction 49 reads from 3 a value 45 at time 11:26:59
+Thread ID 140593002968832 Transaction 48 writes to 1 a value 139 at time 11:26:59
+Thread ID 140593531447040 Transaction 42 writes to 8 a value 95 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 reads from 8 a value 87 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 writes to 8 a value 154 at time 11:26:59
+Thread ID 140594336753408 Transaction 37 writes to 3 a value 102 at time 11:26:59
+Thread ID 140592952612608 Transaction 54 reads from 5 a value 18 at time 11:26:59
+Thread ID 140592952612608 Transaction 54 writes to 5 a value 85 at time 11:26:59
+Thread ID 140592994576128 Transaction 49 writes to 3 a value 105 at time 11:26:59
+Thread ID 140593506268928 Transaction 45 reads from 6 a value 97 at time 11:26:59
+Thread ID 140593506268928 Transaction 45 writes to 6 a value 196 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 reads from 7 a value 96 at time 11:26:59
+Thread ID 140592969398016 Transaction 52 reads from 8 a value 87 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 writes to 7 a value 128 at time 11:26:59
+Thread ID 140592969398016 Transaction 52 writes to 8 a value 142 at time 11:26:59
+Thread ID 140592466097920 Transaction 55 reads from 4 a value 33 at time 11:26:59
+Thread ID 140592466097920 Transaction 55 writes to 4 a value 36 at time 11:26:59
+Thread ID 140592440919808 Transaction 58 reads from 1 a value 87 at time 11:26:59
+Thread ID 140592440919808 Transaction 58 writes to 1 a value 144 at time 11:26:59
+Thread ID 140592457705216 Transaction 56 reads from 9 a value 26 at time 11:26:59
+Thread ID 140592457705216 Transaction 56 writes to 9 a value 102 at time 11:26:59
+Transaction 57 tryCommits with result 1 at time 11:26:59
+
+Transaction 62 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596615800576 Transaction 0 reads from 6 a value 74 at time 11:26:59
+Transaction 8 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596615800576 Transaction 0 writes to 6 a value 76 at time 11:26:59
+Thread ID 140596599015168 Transaction 1 reads from 8 a value 87 at time 11:26:59
+Thread ID 140596599015168 Transaction 1 writes to 8 a value 155 at time 11:26:59
+Transaction 5 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140595595036416 Transaction 17 reads from 5 a value 105 at time 11:26:59
+Thread ID 140595595036416 Transaction 17 writes to 5 a value 124 at time 11:26:59
+Thread ID 140596324841216 Transaction 12 reads from 9 a value 26 at time 11:26:59
+Thread ID 140596573837056 Transaction 6 reads from 6 a value 54 at time 11:26:59
+Thread ID 140596324841216 Transaction 12 writes to 9 a value 101 at time 11:26:59
+Thread ID 140596573837056 Transaction 6 writes to 6 a value 57 at time 11:26:59
+Thread ID 140596081583872 Transaction 16 reads from 2 a value 89 at time 11:26:59
+Thread ID 140596081583872 Transaction 16 writes to 2 a value 164 at time 11:26:59
+Thread ID 140594848446208 Transaction 27 reads from 4 a value 116 at time 11:26:59
+Thread ID 140594848446208 Transaction 27 writes to 4 a value 141 at time 11:26:59
+Thread ID 140594873624320 Transaction 24 reads from 2 a value 34 at time 11:26:59
+Thread ID 140594873624320 Transaction 24 writes to 2 a value 69 at time 11:26:59
+Thread ID 140593539839744 Transaction 41 reads from 5 a value 105 at time 11:26:59
+Thread ID 140595578251008 Transaction 21 reads from 5 a value 105 at time 11:26:59
+Thread ID 140596089976576 Transaction 33 reads from 7 a value 90 at time 11:26:59
+Thread ID 140594831660800 Transaction 30 reads from 8 a value 50 at time 11:26:59
+Thread ID 140594294789888 Transaction 40 reads from 6 a value 128 at time 11:26:59
+Thread ID 140596089976576 Transaction 33 writes to 7 a value 145 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 reads from 5 a value 105 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 writes to 5 a value 167 at time 11:26:59
+Thread ID 140594328360704 Transaction 32 reads from 0 a value 109 at time 11:26:59
+Thread ID 140593539839744 Transaction 41 writes to 5 a value 193 at time 11:26:59
+Thread ID 140595578251008 Transaction 21 writes to 5 a value 168 at time 11:26:59
+Thread ID 140594328360704 Transaction 32 writes to 0 a value 110 at time 11:26:59
+Thread ID 140596056405760 Transaction 28 reads from 1 a value 87 at time 11:26:59
+Thread ID 140594831660800 Transaction 30 writes to 8 a value 107 at time 11:26:59
+Transaction 26 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140594294789888 Transaction 40 writes to 6 a value 201 at time 11:26:59
+Thread ID 140596056405760 Transaction 28 writes to 1 a value 162 at time 11:26:59
+Thread ID 140594311575296 Transaction 36 reads from 9 a value 26 at time 11:26:59
+Thread ID 140594311575296 Transaction 36 writes to 9 a value 115 at time 11:26:59
+Thread ID 140595586643712 Transaction 25 reads from 5 a value 105 at time 11:26:59
+Thread ID 140595586643712 Transaction 25 writes to 5 a value 170 at time 11:26:59
+Thread ID 140593489483520 Transaction 47 reads from 5 a value 105 at time 11:26:59
+Thread ID 140593489483520 Transaction 47 writes to 5 a value 177 at time 11:26:59
+Thread ID 140593523054336 Transaction 43 reads from 6 a value 128 at time 11:26:59
+Thread ID 140593514661632 Transaction 44 reads from 4 a value 100 at time 11:26:59
+Thread ID 140593002968832 Transaction 48 reads from 7 a value 90 at time 11:26:59
+Thread ID 140593002968832 Transaction 48 writes to 7 a value 157 at time 11:26:59
+Thread ID 140593531447040 Transaction 42 reads from 2 a value 34 at time 11:26:59
+Thread ID 140593531447040 Transaction 42 writes to 2 a value 75 at time 11:26:59
+Thread ID 140593523054336 Transaction 43 writes to 6 a value 215 at time 11:26:59
+Thread ID 140594865231616 Transaction 35 reads from 4 a value 100 at time 11:26:59
+Thread ID 140594336753408 Transaction 37 reads from 2 a value 34 at time 11:26:59
+Thread ID 140594336753408 Transaction 37 writes to 2 a value 125 at time 11:26:59
+Thread ID 140592994576128 Transaction 49 reads from 4 a value 100 at time 11:26:59
+Thread ID 140592952612608 Transaction 54 reads from 6 a value 128 at time 11:26:59
+Thread ID 140592952612608 Transaction 54 writes to 6 a value 155 at time 11:26:59
+Thread ID 140594865231616 Transaction 35 writes to 4 a value 171 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 reads from 9 a value 26 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 writes to 9 a value 56 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 reads from 9 a value 26 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 writes to 9 a value 108 at time 11:26:59
+Thread ID 140592994576128 Transaction 49 writes to 4 a value 104 at time 11:26:59
+Transaction 58 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140592969398016 Transaction 52 reads from 5 a value 105 at time 11:26:59
+Thread ID 140592969398016 Transaction 52 writes to 5 a value 105 at time 11:26:59
+Thread ID 140593506268928 Transaction 45 reads from 7 a value 90 at time 11:26:59
+Thread ID 140593506268928 Transaction 45 writes to 7 a value 145 at time 11:26:59
+Thread ID 140593514661632 Transaction 44 writes to 4 a value 131 at time 11:26:59
+Thread ID 140592466097920 Transaction 55 reads from 2 a value 34 at time 11:26:59
+Thread ID 140592466097920 Transaction 55 writes to 2 a value 102 at time 11:26:59
+Thread ID 140592457705216 Transaction 56 reads from 2 a value 111 at time 11:26:59
+Thread ID 140592457705216 Transaction 56 writes to 2 a value 188 at time 11:26:59
+Thread ID 140596615800576 Transaction 0 reads from 5 a value 105 at time 11:26:59
+Thread ID 140596615800576 Transaction 0 writes to 5 a value 122 at time 11:26:59
+Thread ID 140596599015168 Transaction 1 reads from 9 a value 98 at time 11:26:59
+Thread ID 140596599015168 Transaction 1 writes to 9 a value 172 at time 11:26:59
+Thread ID 140595595036416 Transaction 17 reads from 6 a value 128 at time 11:26:59
+Thread ID 140595595036416 Transaction 17 writes to 6 a value 176 at time 11:26:59
+Transaction 6 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596324841216 Transaction 12 reads from 1 a value 144 at time 11:26:59
+Thread ID 140596324841216 Transaction 12 writes to 1 a value 214 at time 11:26:59
+Thread ID 140596081583872 Transaction 16 reads from 0 a value 44 at time 11:26:59
+Thread ID 140596081583872 Transaction 16 writes to 0 a value 130 at time 11:26:59
+Thread ID 140594848446208 Transaction 27 reads from 2 a value 111 at time 11:26:59
+Thread ID 140594848446208 Transaction 27 writes to 2 a value 162 at time 11:26:59
+Thread ID 140594873624320 Transaction 24 reads from 8 a value 143 at time 11:26:59
+Thread ID 140594873624320 Transaction 24 writes to 8 a value 203 at time 11:26:59
+Thread ID 140594328360704 Transaction 32 reads from 0 a value 44 at time 11:26:59
+Thread ID 140594328360704 Transaction 32 writes to 0 a value 108 at time 11:26:59
+Thread ID 140596056405760 Transaction 28 reads from 3 a value 2 at time 11:26:59
+Thread ID 140596056405760 Transaction 28 writes to 3 a value 94 at time 11:26:59
+Thread ID 140593539839744 Transaction 41 reads from 6 a value 57 at time 11:26:59
+Thread ID 140593539839744 Transaction 41 writes to 6 a value 126 at time 11:26:59
+Thread ID 140595578251008 Transaction 21 reads from 6 a value 57 at time 11:26:59
+Thread ID 140595578251008 Transaction 21 writes to 6 a value 110 at time 11:26:59
+Thread ID 140594294789888 Transaction 40 reads from 9 a value 57 at time 11:26:59
+Thread ID 140594294789888 Transaction 40 writes to 9 a value 82 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 reads from 8 a value 143 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 writes to 8 a value 221 at time 11:26:59
+Thread ID 140594831660800 Transaction 30 reads from 6 a value 57 at time 11:26:59
+Thread ID 140594831660800 Transaction 30 writes to 6 a value 148 at time 11:26:59
+Transaction 33 tryCommits with result 1 at time 11:26:59
+
+Transaction 36 tryCommits with result 1 at time 11:26:59
+
+Transaction 25 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140593489483520 Transaction 47 reads from 8 a value 143 at time 11:26:59
+Thread ID 140593489483520 Transaction 47 writes to 8 a value 223 at time 11:26:59
+Thread ID 140593002968832 Transaction 48 reads from 0 a value 66 at time 11:26:59
+Thread ID 140593002968832 Transaction 48 writes to 0 a value 102 at time 11:26:59
+Thread ID 140593531447040 Transaction 42 reads from 7 a value 75 at time 11:26:59
+Thread ID 140593531447040 Transaction 42 writes to 7 a value 145 at time 11:26:59
+Thread ID 140593523054336 Transaction 43 reads from 0 a value 66 at time 11:26:59
+Thread ID 140593523054336 Transaction 43 writes to 0 a value 71 at time 11:26:59
+Thread ID 140594336753408 Transaction 37 reads from 8 a value 143 at time 11:26:59
+Thread ID 140594336753408 Transaction 37 writes to 8 a value 146 at time 11:26:59
+Thread ID 140592952612608 Transaction 54 reads from 5 a value 170 at time 11:26:59
+Thread ID 140592952612608 Transaction 54 writes to 5 a value 220 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 reads from 1 a value 67 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 writes to 1 a value 106 at time 11:26:59
+Transaction 35 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140592986183424 Transaction 50 reads from 4 a value 171 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 writes to 4 a value 180 at time 11:26:59
+Transaction 49 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140592969398016 Transaction 52 reads from 2 a value 157 at time 11:26:59
+Thread ID 140592969398016 Transaction 52 writes to 2 a value 193 at time 11:26:59
+Thread ID 140592457705216 Transaction 56 reads from 4 a value 104 at time 11:26:59
+Thread ID 140592457705216 Transaction 56 writes to 4 a value 139 at time 11:26:59
+Thread ID 140593506268928 Transaction 45 reads from 9 a value 106 at time 11:26:59
+Thread ID 140593506268928 Transaction 45 writes to 9 a value 188 at time 11:26:59
+Thread ID 140593514661632 Transaction 44 reads from 5 a value 38 at time 11:26:59
+Thread ID 140593514661632 Transaction 44 writes to 5 a value 115 at time 11:26:59
+Thread ID 140592466097920 Transaction 55 reads from 5 a value 38 at time 11:26:59
+Thread ID 140592466097920 Transaction 55 writes to 5 a value 64 at time 11:26:59
+Thread ID 140596615800576 Transaction 0 reads from 5 a value 38 at time 11:26:59
+Thread ID 140596615800576 Transaction 0 writes to 5 a value 133 at time 11:26:59
+Thread ID 140595595036416 Transaction 17 reads from 7 a value 75 at time 11:26:59
+Thread ID 140595595036416 Transaction 17 writes to 7 a value 138 at time 11:26:59
+Transaction 1 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596324841216 Transaction 12 reads from 6 a value 90 at time 11:26:59
+Thread ID 140596324841216 Transaction 12 writes to 6 a value 97 at time 11:26:59
+Transaction 27 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596056405760 Transaction 28 reads from 3 a value 30 at time 11:26:59
+Thread ID 140596056405760 Transaction 28 writes to 3 a value 37 at time 11:26:59
+Thread ID 140593539839744 Transaction 41 reads from 3 a value 30 at time 11:26:59
+Thread ID 140593539839744 Transaction 41 writes to 3 a value 70 at time 11:26:59
+Thread ID 140594873624320 Transaction 24 reads from 7 a value 75 at time 11:26:59
+Thread ID 140594873624320 Transaction 24 writes to 7 a value 174 at time 11:26:59
+Thread ID 140595578251008 Transaction 21 reads from 9 a value 172 at time 11:26:59
+Thread ID 140595578251008 Transaction 21 writes to 9 a value 177 at time 11:26:59
+Transaction 32 tryCommits with result 1 at time 11:26:59
+
+Transaction 40 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140595603429120 Transaction 31 reads from 4 a value 141 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 writes to 4 a value 149 at time 11:26:59
+Thread ID 140594831660800 Transaction 30 reads from 2 a value 162 at time 11:26:59
+Thread ID 140594831660800 Transaction 30 writes to 2 a value 164 at time 11:26:59
+Thread ID 140596081583872 Transaction 16 reads from 1 a value 96 at time 11:26:59
+Thread ID 140596081583872 Transaction 16 writes to 1 a value 168 at time 11:26:59
+Thread ID 140593489483520 Transaction 47 reads from 4 a value 141 at time 11:26:59
+Thread ID 140593489483520 Transaction 47 writes to 4 a value 157 at time 11:26:59
+Transaction 48 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140593531447040 Transaction 42 reads from 4 a value 56 at time 11:26:59
+Thread ID 140593531447040 Transaction 42 writes to 4 a value 94 at time 11:26:59
+Thread ID 140592952612608 Transaction 54 reads from 3 a value 30 at time 11:26:59
+Thread ID 140592952612608 Transaction 54 writes to 3 a value 103 at time 11:26:59
+Thread ID 140593523054336 Transaction 43 reads from 2 a value 162 at time 11:26:59
+Thread ID 140594336753408 Transaction 37 reads from 3 a value 30 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 reads from 9 a value 82 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 writes to 9 a value 140 at time 11:26:59
+Thread ID 140593523054336 Transaction 43 writes to 2 a value 222 at time 11:26:59
+Thread ID 140594336753408 Transaction 37 writes to 3 a value 89 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 reads from 4 a value 56 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 writes to 4 a value 152 at time 11:26:59
+Thread ID 140592969398016 Transaction 52 reads from 1 a value 139 at time 11:26:59
+Thread ID 140592969398016 Transaction 52 writes to 1 a value 180 at time 11:26:59
+Thread ID 140592457705216 Transaction 56 reads from 5 a value 39 at time 11:26:59
+Thread ID 140592457705216 Transaction 56 writes to 5 a value 55 at time 11:26:59
+Thread ID 140593506268928 Transaction 45 reads from 0 a value 102 at time 11:26:59
+Thread ID 140593506268928 Transaction 45 writes to 0 a value 153 at time 11:26:59
+Transaction 55 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140593514661632 Transaction 44 reads from 8 a value 133 at time 11:26:59
+Thread ID 140593514661632 Transaction 44 writes to 8 a value 162 at time 11:26:59
+Thread ID 140596615800576 Transaction 0 reads from 8 a value 133 at time 11:26:59
+Thread ID 140596615800576 Transaction 0 writes to 8 a value 138 at time 11:26:59
+Transaction 17 tryCommits with result 1 at time 11:26:59
+
+Transaction 12 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596056405760 Transaction 28 reads from 8 a value 133 at time 11:26:59
+Thread ID 140596056405760 Transaction 28 writes to 8 a value 202 at time 11:26:59
+Thread ID 140594873624320 Transaction 24 reads from 7 a value 138 at time 11:26:59
+Transaction 41 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140594873624320 Transaction 24 writes to 7 a value 220 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 reads from 4 a value 25 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 writes to 4 a value 118 at time 11:26:59
+Transaction 21 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140594831660800 Transaction 30 reads from 0 a value 81 at time 11:26:59
+Thread ID 140594831660800 Transaction 30 writes to 0 a value 169 at time 11:26:59
+Thread ID 140593489483520 Transaction 47 reads from 1 a value 214 at time 11:26:59
+Thread ID 140593489483520 Transaction 47 writes to 1 a value 249 at time 11:26:59
+Thread ID 140593531447040 Transaction 42 reads from 8 a value 133 at time 11:26:59
+Thread ID 140593531447040 Transaction 42 writes to 8 a value 198 at time 11:26:59
+Thread ID 140596081583872 Transaction 16 reads from 8 a value 133 at time 11:26:59
+Thread ID 140596081583872 Transaction 16 writes to 8 a value 183 at time 11:26:59
+Thread ID 140592952612608 Transaction 54 reads from 7 a value 166 at time 11:26:59
+Thread ID 140592952612608 Transaction 54 writes to 7 a value 229 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 reads from 9 a value 177 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 writes to 9 a value 193 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 reads from 1 a value 214 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 writes to 1 a value 229 at time 11:26:59
+Thread ID 140594336753408 Transaction 37 reads from 4 a value 55 at time 11:26:59
+Thread ID 140594336753408 Transaction 37 writes to 4 a value 149 at time 11:26:59
+Thread ID 140593523054336 Transaction 43 reads from 6 a value 110 at time 11:26:59
+Thread ID 140592969398016 Transaction 52 reads from 0 a value 81 at time 11:26:59
+Thread ID 140593523054336 Transaction 43 writes to 6 a value 130 at time 11:26:59
+Thread ID 140592457705216 Transaction 56 reads from 3 a value 70 at time 11:26:59
+Thread ID 140592457705216 Transaction 56 writes to 3 a value 88 at time 11:26:59
+Thread ID 140592969398016 Transaction 52 writes to 0 a value 89 at time 11:26:59
+Thread ID 140593506268928 Transaction 45 reads from 9 a value 177 at time 11:26:59
+Thread ID 140593506268928 Transaction 45 writes to 9 a value 208 at time 11:26:59
+Transaction 44 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596615800576 Transaction 0 reads from 5 a value 115 at time 11:26:59
+Thread ID 140596615800576 Transaction 0 writes to 5 a value 133 at time 11:26:59
+Thread ID 140594873624320 Transaction 24 reads from 1 a value 146 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 reads from 0 a value 81 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 writes to 0 a value 106 at time 11:26:59
+Transaction 28 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140594873624320 Transaction 24 writes to 1 a value 151 at time 11:26:59
+Transaction 30 tryCommits with result 1 at time 11:26:59
+
+Transaction 42 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596081583872 Transaction 16 reads from 8 a value 198 at time 11:26:59
+Thread ID 140596081583872 Transaction 16 writes to 8 a value 289 at time 11:26:59
+Thread ID 140593489483520 Transaction 47 reads from 5 a value 78 at time 11:26:59
+Thread ID 140593489483520 Transaction 47 writes to 5 a value 138 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 reads from 7 a value 145 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 reads from 8 a value 198 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 writes to 7 a value 231 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 writes to 8 a value 241 at time 11:26:59
+Transaction 54 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140593506268928 Transaction 45 reads from 2 a value 188 at time 11:26:59
+Thread ID 140593506268928 Transaction 45 writes to 2 a value 242 at time 11:26:59
+Transaction 56 tryCommits with result 1 at time 11:26:59
+
+Transaction 52 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140594336753408 Transaction 37 reads from 5 a value 105 at time 11:26:59
+Thread ID 140594336753408 Transaction 37 writes to 5 a value 159 at time 11:26:59
+Transaction 43 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140596615800576 Transaction 0 reads from 3 a value 102 at time 11:26:59
+Thread ID 140596615800576 Transaction 0 writes to 3 a value 125 at time 11:26:59
+Thread ID 140594873624320 Transaction 24 reads from 1 a value 54 at time 11:26:59
+Thread ID 140594873624320 Transaction 24 writes to 1 a value 141 at time 11:26:59
+Thread ID 140596081583872 Transaction 16 reads from 9 a value 95 at time 11:26:59
+Thread ID 140596081583872 Transaction 16 writes to 9 a value 127 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 reads from 0 a value 71 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 reads from 8 a value 142 at time 11:26:59
+Thread ID 140595603429120 Transaction 31 writes to 0 a value 149 at time 11:26:59
+Thread ID 140592986183424 Transaction 50 writes to 8 a value 224 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 reads from 3 a value 102 at time 11:26:59
+Thread ID 140592977790720 Transaction 51 writes to 3 a value 130 at time 11:26:59
+Transaction 47 tryCommits with result 1 at time 11:26:59
+
+Transaction 45 tryCommits with result 1 at time 11:26:59
+
+Thread ID 140594336753408 Transaction 37 reads from 6 a value 196 at time 11:26:59
+Thread ID 140594336753408 Transaction 37 writes to 6 a value 274 at time 11:26:59
+Transaction 0 tryCommits with result 1 at time 11:26:59
+
+Transaction 24 tryCommits with result 1 at time 11:26:59
+
+Transaction 51 tryCommits with result 1 at time 11:26:59
+
+Transaction 50 tryCommits with result 1 at time 11:26:59
+
+Transaction 16 tryCommits with result 1 at time 11:26:59
+
+Transaction 31 tryCommits with result 1 at time 11:26:59
+
+Transaction 37 tryCommits with result 1 at time 11:26:59
+

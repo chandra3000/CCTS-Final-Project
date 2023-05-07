@@ -3,7 +3,7 @@
 
 #include "Data.h"
 #include "Transaction.h"
-#include "ConcurrentGraphDS/acyclicity/coarse-lock.h"
+#include "coarse-lock.h"
 #include <bits/stdc++.h>
 
 class SGT {
