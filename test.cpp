@@ -1,5 +1,5 @@
 #include "Data.h"
-#include "sgt.h"
+#include "sgt3.h"
 #include <bits/stdc++.h>
 #include <iostream>
 #include <thread>
@@ -41,18 +41,19 @@ void updtMemory() {
 			vector<int> visited(m, 0);
 			bool abort = 0;
 
-			for (int i = 0; i < randIters; ++i) {
+		for (int i = 0; i < randIters; ++i) {
 			// cout << "Write Set size " << liveTrans[id].writeSet.size() <<endl;
 			int randInd = rand() % m;
 			int randVal = rand() % constVal;
 			while (visited[randInd]) randInd = rand() % m; // To make sure same operation is not perfomed twice
 			visited[randInd] = 1;
 
-			if (!sgt.read(id, *sharedMem[randInd], locVal)) {
+			cout << "okay1\n";
+			if (!sgt.read(id, sharedMem[randInd], locVal)) {
 				abort = 1;
 				break;
 			}
-
+			cout << "okay2\n";
 			std::chrono::time_point<std::chrono::high_resolution_clock> readTime =
 				std::chrono::high_resolution_clock::now();
 			logLock.lock();
@@ -65,10 +66,13 @@ void updtMemory() {
 			// cout << locVal << " " << locVal + randVal << endl;
 			locVal += randVal;
 			// cout << "Write Set size " << liveTrans[id].writeSet.size() << endl;
-			if(!sgt.write(id, *sharedMem[randInd], locVal)) {
+			cout << "okay3\n";
+			if(!sgt.write(id, sharedMem[randInd], locVal)) {
+				cout << "write abort\n";
 				abort = 1;
 				break;
 			}
+			cout << "okay4\n";
 
 			std::chrono::time_point<std::chrono::high_resolution_clock> writeTime =
 				std::chrono::high_resolution_clock::now();
@@ -85,6 +89,7 @@ void updtMemory() {
 			std::this_thread::sleep_for(
 				std::chrono::milliseconds((int)(1000 * randTime)));
 			usleep(randTime);
+			cout << "okay5\n";
 		}
 			// cout << "Commit!\n";
 		if(!abort) {
