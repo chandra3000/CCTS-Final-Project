@@ -3,7 +3,7 @@
 
 #include "Data.h"
 #include "Transaction.h"
-#include "ConcurrentGraphDS/acyclicity/finelock_not_remove_ie_collect.h"
+#include "finelock_remove_ie_collect.h"
 #include <bits/stdc++.h>
 
 class SGT {
@@ -38,22 +38,24 @@ std::mutex abortLock;
 
 Transaction &SGT::begin_transaction() {
 	transLock.lock();
+    cout << "start new trans\n";
 	Transaction *t = new Transaction();
 	t->id = id_counter++;
 	//g.AddV(t->id);
 	// g.PrintGraph();
+    cout << "ok\n";
     add_vertex(t->id);
-
+    cout << "new trans success\n";
 	transLock.unlock();
 	return *t;
 }
 
 bool SGT::read(Transaction &t, Data* d, int &x) {
 	//std::lock_guard<std::shared_mutex> lock(d.data_lock);
-	//cout << "start read\n"; 
+	cout << "start read\n"; 
 	d->data_lock.lock_shared();
     //graphLock.lock();
-	//cout << d->id << " read locked\n";
+	cout << d->id << " read locked\n";
 	//graphLock.lock();
 	if (0) {
 	} else {
@@ -87,8 +89,8 @@ bool SGT::read(Transaction &t, Data* d, int &x) {
 				// }
                 //graphLock.unlock();
 				d->data_lock.unlock_shared();
-				//cout << d->id << " read abort unlocked\n";
-				//cout << "read abort\n";
+				cout << d->id << " read abort unlocked\n";
+				cout << "read abort\n";
 				return 0;
 			} else {
 				t.incoming_edges.insert(*it);
@@ -99,7 +101,7 @@ bool SGT::read(Transaction &t, Data* d, int &x) {
 	//cout << "end read\n";
     //graphLock.unlock();
 	d->data_lock.unlock_shared();
-	//cout << d->id << " read unlocked\n";
+	cout << d->id << " read unlocked\n";
 	// log_lock.lock();
 	// log_file << "read " << d.id << " value " << x << " by " << t.id << endl;
 	// log_lock.unlock();
@@ -108,15 +110,15 @@ bool SGT::read(Transaction &t, Data* d, int &x) {
 
 bool SGT::write(Transaction &t, Data* d, int value) {
   //std::lock_guard<std::shared_mutex> lock(d.data_lock);
-	//cout << "write wait\n";
-	//cout << "waiting for " << d->id << " unlock\n";
+	cout << "write wait\n";
+	cout << "waiting for " << d->id << " unlock\n";
 	d->data_lock.lock();
-	//cout << d->id << " write locked\n";
-	//cout << "start write\n";
+	cout << d->id << " write locked\n";
+	cout << "start write\n";
 	t.write_set[d] = value;
-	//cout << "end write\n";
+	cout << "end write\n";
 	d->data_lock.unlock();
-	//cout << d->id << " write unlocked\n";
+	cout << d->id << " write unlocked\n";
   	return 1;
 }
 
@@ -132,14 +134,14 @@ void SGT::abort(Transaction &t) {
 		//g.RemoveE(e, t.id);
         remove_edge(e, t.id);
 	}
-	//g.RemoveV(t.id);
+	// g.RemoveV(t.id);
 	abortLock.unlock();
 }
 
 int SGT::try_commit(Transaction &t) {
 	set <Data *> tempOrder{};
 	vector <Data *> finalOrder{};
-	//cout << "start commit\n";
+	cout << "start commit\n";
 	for(auto it = t.write_set.begin(); it != t.write_set.end(); ++it) {
 		Data *d = it->first;
 		tempOrder.insert(d);
@@ -151,7 +153,7 @@ int SGT::try_commit(Transaction &t) {
 	for(auto it = tempOrder.begin(); it != tempOrder.end(); ++it) {
 		finalOrder.push_back(*it);
 		(*it)->data_lock.lock();
-		//cout << (*it)->id << " commit locked\n";
+		cout << (*it)->id << " commit locked\n";
 	}
     //graphLock.lock();
 	reverse(finalOrder.begin(), finalOrder.end());
@@ -174,7 +176,7 @@ int SGT::try_commit(Transaction &t) {
                 //graphLock.unlock();
 				for(auto data: finalOrder) {
 					data->data_lock.unlock();
-					//cout << data->id << " abort unlocked\n";
+					cout << data->id << " abort unlocked\n";
 				}
 				return 0;
 			} else {
@@ -201,7 +203,7 @@ int SGT::try_commit(Transaction &t) {
                 //graphLock.unlock();
 				for(auto data: finalOrder) {
 					data->data_lock.unlock();
-					//cout << data->id << " abort unlocked\n";
+					cout << data->id << " abort unlocked\n";
 				}
 				return 0;
 			} else {
@@ -227,7 +229,7 @@ int SGT::try_commit(Transaction &t) {
                 //graphLock.unlock();
 				for(auto data: finalOrder) {
 					data->data_lock.unlock();
-					//cout << data->id << " abort unlocked\n";
+					cout << data->id << " abort unlocked\n";
 				}
 				return 0;
 			} else {
@@ -246,12 +248,14 @@ int SGT::try_commit(Transaction &t) {
     //graphLock.unlock();
 	for(auto data: finalOrder) {
 		data->data_lock.unlock();
-		//cout << data->id << " commit unlocked\n";
+		cout << data->id << " commit unlocked\n";
 	}
 	return 1;
 }
 
 void initSharedData(int numData) {
+    vhead = vtail = NULL;
+    create_initial_vertices(1);
 	for (int i = 0; i < numData; ++i) {
 		Data *d = new Data(0, i);
 		sharedMem.push_back(d);

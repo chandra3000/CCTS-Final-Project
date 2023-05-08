@@ -133,6 +133,7 @@ void SGT::abort(Transaction &t) {
         remove_edge(e, t.id);
 	}
 	//g.RemoveV(t.id);
+	remove_vertex(t.id);
 	abortLock.unlock();
 }
 
